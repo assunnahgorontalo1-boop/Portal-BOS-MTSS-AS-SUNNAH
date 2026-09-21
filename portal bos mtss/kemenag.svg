@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 240" role="img" aria-labelledby="title desc">
+  <title id="title">Emblem Kementerian Agama</title>
+  <desc id="desc">Lambang geometris bernuansa emas dan hijau untuk tampilan portal.</desc>
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#197d83"/>
+      <stop offset="1" stop-color="#123d56"/>
+    </linearGradient>
+  </defs>
+  <circle cx="110" cy="104" r="92" fill="#fff" stroke="#d5e7e9" stroke-width="4"/>
+  <path d="M110 28 178 52v53c0 46-29 73-68 91-39-18-68-45-68-91V52z" fill="url(#green)" stroke="#f2b45f" stroke-width="6"/>
+  <path d="M110 49v103M65 78h90" stroke="#f8e6b4" stroke-width="4" opacity=".8"/>
+  <path d="m110 49 8 22 23 1-18 14 6 22-19-12-19 12 6-22-18-14 23-1z" fill="#f8c875"/>
+  <circle cx="110" cy="104" r="25" fill="none" stroke="#fff4d6" stroke-width="4"/>
+  <text x="110" y="198" text-anchor="middle" fill="#123d56" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">PORTAL BOS</text>
+  <text x="110" y="216" text-anchor="middle" fill="#197d83" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">MADRASAH</text>
+</svg>
