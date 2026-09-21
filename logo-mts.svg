@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Logo MTs As-Sunnah Gorontalo</title>
+  <desc id="desc">Lambang perisai bernuansa hijau dan emas dengan buku, bintang, dan inisial AS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123d56"/>
+      <stop offset="1" stop-color="#197d83"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8c875"/>
+      <stop offset="1" stop-color="#d97952"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="113" fill="#fff" stroke="#d5e7e9" stroke-width="4"/>
+  <path d="M120 20 202 48v65c0 54-35 86-82 107-47-21-82-53-82-107V48z" fill="url(#bg)" stroke="url(#gold)" stroke-width="7"/>
+  <path d="M120 42v54" stroke="#f8e6b4" stroke-width="4" opacity=".8"/>
+  <path d="M66 100c17-10 36-10 54 1v43c-18-11-37-11-54-1zM174 100c-17-10-36-10-54 1v43c18-11 37-11 54-1z" fill="#fff4d6" stroke="#f2b45f" stroke-width="3"/>
+  <path d="M70 105c15-6 31-5 47 3M170 105c-15-6-31-5-47 3" fill="none" stroke="#197d83" stroke-width="3"/>
+  <path d="m120 56 4 9 10 1-8 7 3 10-9-5-9 5 3-10-8-7 10-1z" fill="url(#gold)"/>
+  <text x="120" y="174" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="25" font-weight="700">AS</text>
+  <path d="M70 190h100" stroke="#f8c875" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="207" text-anchor="middle" fill="#f8e6b4" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.2">AS-SUNNAH</text>
+</svg>
